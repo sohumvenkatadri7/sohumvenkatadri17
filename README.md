@@ -28,7 +28,6 @@
 ---
 
 ### 📌 Current Goals
-- 🚀 Become a [GitHub Campus Expert](https://education.github.com/campus-experts)
 - 🛠️ Build & share open-source projects
 - 🎤 Organize tech workshops and events at my college
 - 🤝 Connect with devs across the globe!
@@ -46,9 +45,9 @@
 
 ### 📫 Let’s Connect!
 
-- 📧 sohum@example.com *(put your real one if you’re comfy)*
+- 📧 sohumnaidu121@gmail.com *(put your real one if you’re comfy)*
 - 🌐 [Portfolio coming soon!]
-- 🐦 [Twitter/X if you use one]
+- 🐦 @Sohum041
 - 📍 Bangalore, India
 
 ---

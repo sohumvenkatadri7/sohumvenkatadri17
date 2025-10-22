@@ -43,9 +43,11 @@
 
 ---
 
+[![An image of @sohumvenkatadri7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohumvenkatadri7)](https://holopin.io/@sohumvenkatadri7)
+
 ### 📫 Let’s Connect!
 
-- 📧 sohumnaidu121@gmail.com *(put your real one if you’re comfy)*
+- 📧 sohumnaidu121@gmail.com
 - 🌐 [Portfolio coming soon!]
 - 🐦 @Sohum041
 - 📍 Bangalore, India
